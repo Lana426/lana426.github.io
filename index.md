@@ -2,10 +2,12 @@
 
 With an inquisitive mind and a thirst for diverse experiences, I have been living abroad for six years now in pursuit of well-rounded education. I believe that the future of finance is intrinsically tied to technology with the rise of fintech, but also the prevalence of ML and AI in today’s economy. Consumers across the globe are adjusting to a digital lifestyle and the financial sector is no exception. It is perhaps this that has inspired me to work on bridging the gap between Financial Services and Information Technology by developing strong data analysis skills. In my college years, I have had extensive experience in consulting and have sharpened my coding skills (specifically SQL, R, Python, and Java). I will be joining EY at their New York City office in 2022 as a Technology Consultant.
 
+This is my home, [Montenegro](https://www.visit-montenegro.com/): 
+
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/Lana426/lana426.github.io/blob/master/images/picture.jpg" width="50%">
+  <img class="img-circle" src="https://github.com/Lana426/lana426.github.io/blob/master/images/montenegro.jpeg" width="50%">
 </p>
 
 ---
