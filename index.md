@@ -16,7 +16,7 @@ With an inquisitive mind and a thirst for diverse experiences, I have been livin
 
 _**[Natural language processing 10-Ks to identify risks](analysis_report.md)**_
 
-I looked at returns of the S&P 500 firms duing the week of March 9th, 2020, analyzed three types of risk - supply chain, international labor, and reputation - and compared them to these firms' returns. You can view my analysis by clicking on the link above. 
+I looked at returns of the S&P 500 firms during the week of March 9th, 2020, analyzed three types of risk - supply chain, international labor, and reputation - and compared them to these firms' returns. You can view my analysis by clicking on the link above. 
 
 <img src="/images/midterm_graphic.png"/>
 
